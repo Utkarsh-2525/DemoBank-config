@@ -5,7 +5,7 @@ accounts:
     message: "Welcome to DemoBank Accounts related APIs"
     contactDetails:
         name: "Utkarsh Mishra - Developer"
-        email: "m.utkarsh@general.com"
+        email: "{cipher}e61a862696ee29839824e2a94981d9863130f6a9a4831222fc1c5befc99469a867a77f7c6da585c0618fe8d5357c8ffd"
     onCallSupport:
         - (+91) 1234-657-890
         - (+91) 9876-543-210
