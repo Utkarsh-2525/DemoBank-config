@@ -2,7 +2,7 @@ build:
     version: "3.0"
 
 cards:
-    message: "Welcome to DemoBank Cards related APIs"
+    message: "Welcome to DemoBank Cards related Docker APIs"
     contactDetails:
         name: "Utkarsh Mishra - Developer"
         email: "m.utkarsh@general.com"
